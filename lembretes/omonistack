@@ -99,10 +99,10 @@ npm install react-icons
 
 
 
-                        Instalaçâo de rotas no fronte end
+                    -->    Instalaçâo de rotas no fronte end
 
 
-npm install react-router-dom
+-->npm install react-router-dom 
 
 
                       ----->>>Conectando o back-end com Front-end<<<<-------
